@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goit-react-hw-04-feedback/static/css/main.c3d5249d.css",
-    "main.js": "/goit-react-hw-04-feedback/static/js/main.cd782b4f.js",
+    "main.js": "/goit-react-hw-04-feedback/static/js/main.d771f8f8.js",
     "static/media/no-roads.jpg": "/goit-react-hw-04-feedback/static/media/no-roads.bf5c9f3fee771a87ab6f.jpg",
     "index.html": "/goit-react-hw-04-feedback/index.html",
     "main.c3d5249d.css.map": "/goit-react-hw-04-feedback/static/css/main.c3d5249d.css.map",
-    "main.cd782b4f.js.map": "/goit-react-hw-04-feedback/static/js/main.cd782b4f.js.map"
+    "main.d771f8f8.js.map": "/goit-react-hw-04-feedback/static/js/main.d771f8f8.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.cd782b4f.js"
+    "static/js/main.d771f8f8.js"
   ]
 }
